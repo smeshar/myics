@@ -1,8 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//RunTK Multi-Workout Editor//Intervals.icu Plan//EN
+PRODID:-//Intervals.icu//NONSGML Intervals.icu//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 BEGIN:VEVENT
 UID:runtk-workout-1@intervals.icu
 DTSTAMP:20260709T083149Z
