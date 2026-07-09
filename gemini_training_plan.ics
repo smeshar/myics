@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RunTK Multi-Workout Editor//Intervals.icu Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:runtk-workout-1@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260713
+SUMMARY:W01D1:Easy - Aerobic Foundation (60 min)
+DESCRIPTION:Warmup\n- 10m Z1 HR 85-95rpm\nMain Set\n- 40m Z2 HR 85-95rpm\nCooldown\n- 10m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-2@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260714
+SUMMARY:W01D2:Threshold - 3x8m Threshold (36 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 3x\n- 8m Z4 HR 90-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 9m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-3@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260716
+SUMMARY:W01D4:Tempo - 2x15m Tempo (55 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 15m Z3 HR 85-95rpm\n- Recovery 5m Z1 HR 85rpm\nCooldown\n- 20m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-4@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260717
+SUMMARY:W01D5:Long Ride - 90m Aerobic Endurance (90 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 60m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-5@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260720
+SUMMARY:W02D1:Easy - Aerobic Foundation (60 min)
+DESCRIPTION:Warmup\n- 10m Z1 HR 85-95rpm\nMain Set\n- 40m Z2 HR 85-95rpm\nCooldown\n- 10m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-6@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260721
+SUMMARY:W02D2:Threshold - 4x8m Threshold (32 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 4x\n- 8m Z4 HR 90-95rpm\n- Recovery 3m Z1 HR 85rpm\nCooldown\n- 6m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-7@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260723
+SUMMARY:W02D4:Tempo - 3x12m Sweet Spot (48 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 3x\n- 12m Z3 HR 85-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 17m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-8@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260724
+SUMMARY:W02D5:Long Ride - 105m Aerobic Endurance (105 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 75m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-9@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260727
+SUMMARY:W03D1:Easy - Aerobic Foundation (75 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 45m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-10@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260728
+SUMMARY:W03D2:Threshold - 3x10m Threshold (42 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 3x\n- 10m Z4 HR 90-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 13m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-11@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260730
+SUMMARY:W03D4:Tempo - 2x20m Tempo (65 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 20m Z3 HR 85-95rpm\n- Recovery 5m Z1 HR 85rpm\nCooldown\n- 25m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-12@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260731
+SUMMARY:W03D5:Long Ride - 120m Aerobic Endurance (120 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 90m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-13@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260803
+SUMMARY:W04D1:Easy - Recovery Spin (45 min)
+DESCRIPTION:Warmup\n- 10m Z1 HR 85-95rpm\nMain Set\n- 25m Z1 HR 85-95rpm\nCooldown\n- 10m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-14@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260804
+SUMMARY:W04D2:Threshold - 2x6m Light Threshold (41 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 6m Z4 HR 90-95rpm\n- Recovery 3m Z1 HR 85rpm\nCooldown\n- 17m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-15@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260806
+SUMMARY:W04D4:Tempo - 2x10m Easy Tempo (46 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 10m Z3 HR 85-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 17m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-16@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260807
+SUMMARY:W04D5:Long Ride - 75m Aerobic Refresh (75 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 45m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-17@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260810
+SUMMARY:W05D1:Easy - Aerobic Foundation (60 min)
+DESCRIPTION:Warmup\n- 10m Z1 HR 85-95rpm\nMain Set\n- 40m Z2 HR 85-95rpm\nCooldown\n- 10m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-18@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260811
+SUMMARY:W05D2:Threshold - 4x10m Threshold (36 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 4x\n- 10m Z4 HR 90-95rpm\n- Recovery 3m Z1 HR 85rpm\nCooldown\n- 8m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-19@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260813
+SUMMARY:W05D4:Tempo - 3x15m Sweet Spot (52 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 3x\n- 15m Z3 HR 85-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 18m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-20@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260814
+SUMMARY:W05D5:Long Ride - 150m Endurance Stretch (150 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 120m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-21@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260817
+SUMMARY:W06D1:Easy - Aerobic Foundation (75 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 45m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-22@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260818
+SUMMARY:W06D2:Threshold - 3x12m Threshold (43 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 3x\n- 12m Z4 HR 90-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 12m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-23@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260820
+SUMMARY:W06D4:Tempo - 2x25m Tempo (65 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 25m Z3 HR 85-95rpm\n- Recovery 5m Z1 HR 85rpm\nCooldown\n- 20m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-24@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260821
+SUMMARY:W06D5:Long Ride - 180m Flagship Endurance (180 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 150m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-25@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260824
+SUMMARY:W07D1:Easy - Aerobic Foundation (75 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 45m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-26@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260825
+SUMMARY:W07D2:Threshold - Over-Unders 4x8m (39 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nOver-Unders 4x\n- 2m Z4 HR 95rpm\n- 2m Z3 HR 85rpm\n- 2m Z4 HR 95rpm\n- 2m Z3 HR 85rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 12m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-27@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260827
+SUMMARY:W07D4:Tempo - 3x20m Tempo (50 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 3x\n- 20m Z3 HR 85-95rpm\n- Recovery 5m Z1 HR 85rpm\nCooldown\n- 10m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-28@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:W07D5:Long Ride - 195m Endurance Stretch (195 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 165m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-29@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260831
+SUMMARY:W08D1:Easy - Taper Spin (45 min)
+DESCRIPTION:Warmup\n- 10m Z1 HR 85-95rpm\nMain Set\n- 25m Z1 HR 85-95rpm\nCooldown\n- 10m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-30@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260901
+SUMMARY:W08D2:Threshold - 2x8m Sharp Threshold (38 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 8m Z4 HR 90-95rpm\n- Recovery 4m Z1 HR 85rpm\nCooldown\n- 11m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-31@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260903
+SUMMARY:W08D4:Tempo - 2x10m Aerobic Primers (32 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set 2x\n- 10m Z3 HR 85-95rpm\n- Recovery 3m Z1 HR 85rpm\nCooldown\n- 4m Z1 HR 85-95rpm
+END:VEVENT
+BEGIN:VEVENT
+UID:runtk-workout-32@intervals.icu
+DTSTAMP:20260709T083149Z
+DTSTART;VALUE=DATE:20260904
+SUMMARY:W08D5:Long Ride - 120m Benchmark Cruise (120 min)
+DESCRIPTION:Warmup\n- 15m Z1 HR 85-95rpm\nMain Set\n- 90m Z2 HR 85-95rpm\nCooldown\n- 15m Z1 HR 85-95rpm
+END:VEVENT
+END:VCALENDAR
